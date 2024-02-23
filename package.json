@@ -1,6 +1,6 @@
 {
   "name": "string-to-unicode-variant",
-  "version": "1.0.8-4",
+  "version": "1.0.9",
   "description": "Javascript function to convert a string into different kind of ⓤⓝⓘⓒⓞⓓⓔ variants.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
